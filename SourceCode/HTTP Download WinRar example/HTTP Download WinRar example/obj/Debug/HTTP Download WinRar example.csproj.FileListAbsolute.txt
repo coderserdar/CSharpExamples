@@ -1,0 +1,19 @@
+C:\Users\dfruk\Desktop\aprojects\c#\HTTP Download WinRar example\HTTP Download WinRar example\bin\Debug\HTTP Download WinRar example.exe.config
+C:\Users\dfruk\Desktop\aprojects\c#\HTTP Download WinRar example\HTTP Download WinRar example\bin\Debug\HTTP Download WinRar example.exe
+C:\Users\dfruk\Desktop\aprojects\c#\HTTP Download WinRar example\HTTP Download WinRar example\bin\Debug\HTTP Download WinRar example.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\HTTP Download WinRar example\HTTP Download WinRar example\obj\Debug\HTTP_Download_WinRar_example.Form1.resources
+C:\Users\dfruk\Desktop\aprojects\c#\HTTP Download WinRar example\HTTP Download WinRar example\obj\Debug\HTTP_Download_WinRar_example.Properties.Resources.resources
+C:\Users\dfruk\Desktop\aprojects\c#\HTTP Download WinRar example\HTTP Download WinRar example\obj\Debug\HTTP Download WinRar example.csproj.GenerateResource.Cache
+C:\Users\dfruk\Desktop\aprojects\c#\HTTP Download WinRar example\HTTP Download WinRar example\obj\Debug\HTTP Download WinRar example.exe
+C:\Users\dfruk\Desktop\aprojects\c#\HTTP Download WinRar example\HTTP Download WinRar example\obj\Debug\HTTP Download WinRar example.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\HTTP Download WinRar example\HTTP Download WinRar example\obj\Debug\HTTP Download WinRar example.csprojResolveAssemblyReference.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\HTTP Download WinRar example\HTTP Download WinRar example\bin\Debug\HTTP Download WinRar example.exe.config
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\HTTP Download WinRar example\HTTP Download WinRar example\bin\Debug\HTTP Download WinRar example.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\HTTP Download WinRar example\HTTP Download WinRar example\bin\Debug\HTTP Download WinRar example.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\HTTP Download WinRar example\HTTP Download WinRar example\obj\Debug\HTTP Download WinRar example.csprojAssemblyReference.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\HTTP Download WinRar example\HTTP Download WinRar example\obj\Debug\HTTP_Download_WinRar_example.FormHttpWinRar.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\HTTP Download WinRar example\HTTP Download WinRar example\obj\Debug\HTTP_Download_WinRar_example.Properties.Resources.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\HTTP Download WinRar example\HTTP Download WinRar example\obj\Debug\HTTP Download WinRar example.csproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\HTTP Download WinRar example\HTTP Download WinRar example\obj\Debug\HTTP Download WinRar example.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\HTTP Download WinRar example\HTTP Download WinRar example\obj\Debug\HTTP Download WinRar example.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\HTTP Download WinRar example\HTTP Download WinRar example\obj\Debug\HTTP Download WinRar example.pdb

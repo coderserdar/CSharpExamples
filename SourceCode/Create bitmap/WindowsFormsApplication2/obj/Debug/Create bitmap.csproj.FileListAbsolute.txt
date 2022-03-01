@@ -1,0 +1,22 @@
+C:\Users\dfruk\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\dfruk\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\dfruk\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\dfruk\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Create bitmap.csprojResolveAssemblyReference.cache
+C:\Users\dfruk\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Create bitmap.csproj.GenerateResource.Cache
+C:\Users\dfruk\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\dfruk\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\dfruk\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\CreateBitmap.Form1.resources
+C:\Users\dfruk\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\CreateBitmap.Properties.Resources.resources
+C:\Users\dfruk\Documents\Visual Studio 2012\Projects\Create bitmap\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\dfruk\Documents\Visual Studio 2012\Projects\Create bitmap\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\dfruk\Documents\Visual Studio 2012\Projects\Create bitmap\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Create bitmap\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Create bitmap\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Create bitmap\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Create bitmap\WindowsFormsApplication2\obj\Debug\Create bitmap.csprojAssemblyReference.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Create bitmap\WindowsFormsApplication2\obj\Debug\CreateBitmap.FormCreateBitmap.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Create bitmap\WindowsFormsApplication2\obj\Debug\CreateBitmap.Properties.Resources.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Create bitmap\WindowsFormsApplication2\obj\Debug\Create bitmap.csproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Create bitmap\WindowsFormsApplication2\obj\Debug\Create bitmap.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Create bitmap\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Create bitmap\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

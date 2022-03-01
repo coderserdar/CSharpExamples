@@ -1,0 +1,18 @@
+C:\Users\dfruk\Desktop\aprojects\c#\CreateFile and WriteFile\CreateFile and WriteFile\bin\Debug\CreateFile and WriteFile.exe.config
+C:\Users\dfruk\Desktop\aprojects\c#\CreateFile and WriteFile\CreateFile and WriteFile\bin\Debug\CreateFile and WriteFile.exe
+C:\Users\dfruk\Desktop\aprojects\c#\CreateFile and WriteFile\CreateFile and WriteFile\bin\Debug\CreateFile and WriteFile.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\CreateFile and WriteFile\CreateFile and WriteFile\obj\Debug\CreateFile_and_WriteFile.Form1.resources
+C:\Users\dfruk\Desktop\aprojects\c#\CreateFile and WriteFile\CreateFile and WriteFile\obj\Debug\CreateFile_and_WriteFile.Properties.Resources.resources
+C:\Users\dfruk\Desktop\aprojects\c#\CreateFile and WriteFile\CreateFile and WriteFile\obj\Debug\CreateFile and WriteFile.csproj.GenerateResource.Cache
+C:\Users\dfruk\Desktop\aprojects\c#\CreateFile and WriteFile\CreateFile and WriteFile\obj\Debug\CreateFile and WriteFile.exe
+C:\Users\dfruk\Desktop\aprojects\c#\CreateFile and WriteFile\CreateFile and WriteFile\obj\Debug\CreateFile and WriteFile.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\CreateFile and WriteFile\CreateFile and WriteFile\obj\Debug\CreateFile and WriteFile.csprojResolveAssemblyReference.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\CreateFile and WriteFile\CreateFile and WriteFile\bin\Debug\CreateFile and WriteFile.exe.config
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\CreateFile and WriteFile\CreateFile and WriteFile\bin\Debug\CreateFile and WriteFile.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\CreateFile and WriteFile\CreateFile and WriteFile\bin\Debug\CreateFile and WriteFile.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\CreateFile and WriteFile\CreateFile and WriteFile\obj\Debug\CreateFile_and_WriteFile.FormCreateWriteFile.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\CreateFile and WriteFile\CreateFile and WriteFile\obj\Debug\CreateFile_and_WriteFile.Properties.Resources.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\CreateFile and WriteFile\CreateFile and WriteFile\obj\Debug\CreateFile and WriteFile.csproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\CreateFile and WriteFile\CreateFile and WriteFile\obj\Debug\CreateFile and WriteFile.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\CreateFile and WriteFile\CreateFile and WriteFile\obj\Debug\CreateFile and WriteFile.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\CreateFile and WriteFile\CreateFile and WriteFile\obj\Debug\CreateFile and WriteFile.pdb

@@ -1,0 +1,13 @@
+C:\Users\dfruk\Desktop\aprojects\c#\a\WCF\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll.config
+C:\Users\dfruk\Desktop\aprojects\c#\a\WCF\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll
+C:\Users\dfruk\Desktop\aprojects\c#\a\WCF\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\a\WCF\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\dfruk\Desktop\aprojects\c#\a\WCF\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.dll
+C:\Users\dfruk\Desktop\aprojects\c#\a\WCF\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\WCF\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll.config
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\WCF\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\WCF\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\WCF\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csprojAssemblyReference.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\WCF\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\WCF\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.dll
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\WCF\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.pdb

@@ -1,0 +1,18 @@
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\ItemColor\ItemColor\obj\Debug\ItemColor.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\ItemColor\ItemColor\obj\Debug\Template.Form1.resources
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\ItemColor\ItemColor\obj\Debug\ItemColor.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\ItemColor\ItemColor\bin\Debug\ItemColor.exe.config
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\ItemColor\ItemColor\bin\Debug\ItemColor.exe
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\ItemColor\ItemColor\bin\Debug\ItemColor.pdb
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\ItemColor\ItemColor\obj\Debug\ItemColor.Properties.Resources.resources
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\ItemColor\ItemColor\obj\Debug\ItemColor.exe
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\ItemColor\ItemColor\obj\Debug\ItemColor.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\ItemColor\ItemColor\bin\Debug\ItemColor.exe.config
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\ItemColor\ItemColor\bin\Debug\ItemColor.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\ItemColor\ItemColor\bin\Debug\ItemColor.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\ItemColor\ItemColor\obj\Debug\Template.FormItemColor.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\ItemColor\ItemColor\obj\Debug\ItemColor.Properties.Resources.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\ItemColor\ItemColor\obj\Debug\ItemColor.csproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\ItemColor\ItemColor\obj\Debug\ItemColor.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\ItemColor\ItemColor\obj\Debug\ItemColor.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\ItemColor\ItemColor\obj\Debug\ItemColor.pdb

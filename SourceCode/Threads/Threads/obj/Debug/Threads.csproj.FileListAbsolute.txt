@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\Threads\Threads\obj\Debug\Template.Form1.resources
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\Threads\Threads\obj\Debug\Threads.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\Threads\Threads\bin\Debug\Threads.exe.config
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\Threads\Threads\bin\Debug\Threads.exe
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\Threads\Threads\bin\Debug\Threads.pdb
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\Threads\Threads\obj\Debug\Threads.Properties.Resources.resources
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\Threads\Threads\obj\Debug\Threads.exe
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\Threads\Threads\obj\Debug\Threads.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Threads\Threads\bin\Debug\Threads.exe.config
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Threads\Threads\bin\Debug\Threads.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Threads\Threads\bin\Debug\Threads.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Threads\Threads\obj\Debug\Template.FormThreads.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Threads\Threads\obj\Debug\Threads.Properties.Resources.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Threads\Threads\obj\Debug\Threads.csproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Threads\Threads\obj\Debug\Threads.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Threads\Threads\obj\Debug\Threads.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Threads\Threads\obj\Debug\Threads.pdb

@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\ShellAbout dialog\ShellAbout dialog\bin\Debug\ShellAbout dialog.exe
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\ShellAbout dialog\ShellAbout dialog\bin\Debug\ShellAbout dialog.pdb
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\ShellAbout dialog\ShellAbout dialog\obj\Debug\ShellAbout dialog.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\ShellAbout dialog\ShellAbout dialog\obj\Debug\ShellAbout_dialog.Form1.resources
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\ShellAbout dialog\ShellAbout dialog\obj\Debug\ShellAbout_dialog.Properties.Resources.resources
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\ShellAbout dialog\ShellAbout dialog\obj\Debug\ShellAbout dialog.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\ShellAbout dialog\ShellAbout dialog\obj\Debug\ShellAbout dialog.exe
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\ShellAbout dialog\ShellAbout dialog\obj\Debug\ShellAbout dialog.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\ShellAbout dialog\ShellAbout dialog\bin\Debug\ShellAbout dialog.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\ShellAbout dialog\ShellAbout dialog\bin\Debug\ShellAbout dialog.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\ShellAbout dialog\ShellAbout dialog\obj\Debug\ShellAbout_dialog.FormShellAbout.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\ShellAbout dialog\ShellAbout dialog\obj\Debug\ShellAbout_dialog.Properties.Resources.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\ShellAbout dialog\ShellAbout dialog\obj\Debug\ShellAbout dialog.csproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\ShellAbout dialog\ShellAbout dialog\obj\Debug\ShellAbout dialog.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\ShellAbout dialog\ShellAbout dialog\obj\Debug\ShellAbout dialog.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\ShellAbout dialog\ShellAbout dialog\obj\Debug\ShellAbout dialog.pdb

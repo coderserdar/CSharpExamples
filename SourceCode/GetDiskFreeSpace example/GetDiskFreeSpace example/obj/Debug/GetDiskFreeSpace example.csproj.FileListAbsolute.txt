@@ -1,0 +1,18 @@
+C:\Users\dfruk\Desktop\aprojects\c#\GetDiskFreeSpace example\GetDiskFreeSpace example\bin\Debug\GetDiskFreeSpace example.exe.config
+C:\Users\dfruk\Desktop\aprojects\c#\GetDiskFreeSpace example\GetDiskFreeSpace example\bin\Debug\GetDiskFreeSpace example.exe
+C:\Users\dfruk\Desktop\aprojects\c#\GetDiskFreeSpace example\GetDiskFreeSpace example\bin\Debug\GetDiskFreeSpace example.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\GetDiskFreeSpace example\GetDiskFreeSpace example\obj\Debug\GetDiskFreeSpace example.csprojResolveAssemblyReference.cache
+C:\Users\dfruk\Desktop\aprojects\c#\GetDiskFreeSpace example\GetDiskFreeSpace example\obj\Debug\GetDiskFreeSpace_example.Form1.resources
+C:\Users\dfruk\Desktop\aprojects\c#\GetDiskFreeSpace example\GetDiskFreeSpace example\obj\Debug\GetDiskFreeSpace_example.Properties.Resources.resources
+C:\Users\dfruk\Desktop\aprojects\c#\GetDiskFreeSpace example\GetDiskFreeSpace example\obj\Debug\GetDiskFreeSpace example.csproj.GenerateResource.Cache
+C:\Users\dfruk\Desktop\aprojects\c#\GetDiskFreeSpace example\GetDiskFreeSpace example\obj\Debug\GetDiskFreeSpace example.exe
+C:\Users\dfruk\Desktop\aprojects\c#\GetDiskFreeSpace example\GetDiskFreeSpace example\obj\Debug\GetDiskFreeSpace example.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\GetDiskFreeSpace example\GetDiskFreeSpace example\bin\Debug\GetDiskFreeSpace example.exe.config
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\GetDiskFreeSpace example\GetDiskFreeSpace example\bin\Debug\GetDiskFreeSpace example.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\GetDiskFreeSpace example\GetDiskFreeSpace example\bin\Debug\GetDiskFreeSpace example.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\GetDiskFreeSpace example\GetDiskFreeSpace example\obj\Debug\GetDiskFreeSpace_example.FormGetFreeSpace.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\GetDiskFreeSpace example\GetDiskFreeSpace example\obj\Debug\GetDiskFreeSpace_example.Properties.Resources.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\GetDiskFreeSpace example\GetDiskFreeSpace example\obj\Debug\GetDiskFreeSpace example.csproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\GetDiskFreeSpace example\GetDiskFreeSpace example\obj\Debug\GetDiskFreeSpace example.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\GetDiskFreeSpace example\GetDiskFreeSpace example\obj\Debug\GetDiskFreeSpace example.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\GetDiskFreeSpace example\GetDiskFreeSpace example\obj\Debug\GetDiskFreeSpace example.pdb

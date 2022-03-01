@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\Calculator\Calculator\obj\Debug\Template.Form1.resources
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Calculator\Calculator\obj\Debug\Template.FormCalculator.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Calculator\Calculator\obj\Debug\Calculator.pdb

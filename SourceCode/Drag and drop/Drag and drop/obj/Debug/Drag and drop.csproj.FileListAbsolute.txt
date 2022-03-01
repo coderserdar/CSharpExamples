@@ -1,0 +1,27 @@
+C:\Users\dfruk\Desktop\aprojects\c#\Drag and drop\Drag and drop\Drag and drop\bin\Debug\Drag and drop.exe.config
+C:\Users\dfruk\Desktop\aprojects\c#\Drag and drop\Drag and drop\Drag and drop\bin\Debug\Drag and drop.exe
+C:\Users\dfruk\Desktop\aprojects\c#\Drag and drop\Drag and drop\Drag and drop\bin\Debug\Drag and drop.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\Drag and drop\Drag and drop\Drag and drop\obj\Debug\Drag and drop.csprojResolveAssemblyReference.cache
+C:\Users\dfruk\Desktop\aprojects\c#\Drag and drop\Drag and drop\Drag and drop\obj\Debug\Drag_and_drop.Form1.resources
+C:\Users\dfruk\Desktop\aprojects\c#\Drag and drop\Drag and drop\Drag and drop\obj\Debug\Drag_and_drop.Properties.Resources.resources
+C:\Users\dfruk\Desktop\aprojects\c#\Drag and drop\Drag and drop\Drag and drop\obj\Debug\Drag and drop.csproj.GenerateResource.Cache
+C:\Users\dfruk\Desktop\aprojects\c#\Drag and drop\Drag and drop\Drag and drop\obj\Debug\Drag and drop.exe
+C:\Users\dfruk\Desktop\aprojects\c#\Drag and drop\Drag and drop\Drag and drop\obj\Debug\Drag and drop.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\Drag and drop\Drag and drop\bin\Debug\Drag and drop.exe.config
+C:\Users\dfruk\Desktop\aprojects\c#\Drag and drop\Drag and drop\obj\Debug\Drag and drop.exe
+C:\Users\dfruk\Desktop\aprojects\c#\Drag and drop\Drag and drop\obj\Debug\Drag and drop.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\Drag and drop\Drag and drop\bin\Debug\Drag and drop.exe
+C:\Users\dfruk\Desktop\aprojects\c#\Drag and drop\Drag and drop\bin\Debug\Drag and drop.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\Drag and drop\Drag and drop\obj\Debug\Drag and drop.csprojResolveAssemblyReference.cache
+C:\Users\dfruk\Desktop\aprojects\c#\Drag and drop\Drag and drop\obj\Debug\Drag_and_drop.Form1.resources
+C:\Users\dfruk\Desktop\aprojects\c#\Drag and drop\Drag and drop\obj\Debug\Drag_and_drop.Properties.Resources.resources
+C:\Users\dfruk\Desktop\aprojects\c#\Drag and drop\Drag and drop\obj\Debug\Drag and drop.csproj.GenerateResource.Cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Drag and drop\Drag and drop\bin\Debug\Drag and drop.exe.config
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Drag and drop\Drag and drop\bin\Debug\Drag and drop.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Drag and drop\Drag and drop\bin\Debug\Drag and drop.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Drag and drop\Drag and drop\obj\Debug\Drag_and_drop.FormDragAndDrop.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Drag and drop\Drag and drop\obj\Debug\Drag_and_drop.Properties.Resources.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Drag and drop\Drag and drop\obj\Debug\Drag and drop.csproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Drag and drop\Drag and drop\obj\Debug\Drag and drop.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Drag and drop\Drag and drop\obj\Debug\Drag and drop.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Drag and drop\Drag and drop\obj\Debug\Drag and drop.pdb

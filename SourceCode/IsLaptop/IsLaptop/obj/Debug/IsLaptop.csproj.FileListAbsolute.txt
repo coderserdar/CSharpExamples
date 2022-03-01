@@ -1,0 +1,27 @@
+C:\Users\dfruk\Desktop\aprojects\c#\1\IsLaptop\IsLaptop\bin\Debug\IsLaptop.exe.config
+C:\Users\dfruk\Desktop\aprojects\c#\1\IsLaptop\IsLaptop\bin\Debug\IsLaptop.exe
+C:\Users\dfruk\Desktop\aprojects\c#\1\IsLaptop\IsLaptop\bin\Debug\IsLaptop.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\1\IsLaptop\IsLaptop\obj\Debug\Template.Form1.resources
+C:\Users\dfruk\Desktop\aprojects\c#\1\IsLaptop\IsLaptop\obj\Debug\IsLaptop.Properties.Resources.resources
+C:\Users\dfruk\Desktop\aprojects\c#\1\IsLaptop\IsLaptop\obj\Debug\IsLaptop.csproj.GenerateResource.Cache
+C:\Users\dfruk\Desktop\aprojects\c#\1\IsLaptop\IsLaptop\obj\Debug\IsLaptop.exe
+C:\Users\dfruk\Desktop\aprojects\c#\1\IsLaptop\IsLaptop\obj\Debug\IsLaptop.pdb
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\IsLaptop\IsLaptop\bin\Debug\IsLaptop.exe.config
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\IsLaptop\IsLaptop\obj\Debug\IsLaptop.exe
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\IsLaptop\IsLaptop\obj\Debug\IsLaptop.pdb
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\IsLaptop\IsLaptop\bin\Debug\IsLaptop.exe
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\IsLaptop\IsLaptop\bin\Debug\IsLaptop.pdb
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\IsLaptop\IsLaptop\obj\Debug\IsLaptop.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\IsLaptop\IsLaptop\obj\Debug\Template.Form1.resources
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\IsLaptop\IsLaptop\obj\Debug\IsLaptop.Properties.Resources.resources
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\IsLaptop\IsLaptop\obj\Debug\IsLaptop.csproj.GenerateResource.Cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\IsLaptop\IsLaptop\bin\Debug\IsLaptop.exe.config
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\IsLaptop\IsLaptop\bin\Debug\IsLaptop.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\IsLaptop\IsLaptop\bin\Debug\IsLaptop.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\IsLaptop\IsLaptop\obj\Debug\IsLaptop.csprojAssemblyReference.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\IsLaptop\IsLaptop\obj\Debug\Template.FormIsLaptop.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\IsLaptop\IsLaptop\obj\Debug\IsLaptop.Properties.Resources.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\IsLaptop\IsLaptop\obj\Debug\IsLaptop.csproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\IsLaptop\IsLaptop\obj\Debug\IsLaptop.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\IsLaptop\IsLaptop\obj\Debug\IsLaptop.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\IsLaptop\IsLaptop\obj\Debug\IsLaptop.pdb

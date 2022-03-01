@@ -1,0 +1,18 @@
+C:\Users\dfruk\Desktop\aprojects\c#\Convert BMP to JPG\Convert BMP to JPG\bin\Debug\Convert BMP to JPG.exe.config
+C:\Users\dfruk\Desktop\aprojects\c#\Convert BMP to JPG\Convert BMP to JPG\bin\Debug\Convert BMP to JPG.exe
+C:\Users\dfruk\Desktop\aprojects\c#\Convert BMP to JPG\Convert BMP to JPG\bin\Debug\Convert BMP to JPG.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\Convert BMP to JPG\Convert BMP to JPG\obj\Debug\Convert_BMP_to_JPG.Form1.resources
+C:\Users\dfruk\Desktop\aprojects\c#\Convert BMP to JPG\Convert BMP to JPG\obj\Debug\Convert_BMP_to_JPG.Properties.Resources.resources
+C:\Users\dfruk\Desktop\aprojects\c#\Convert BMP to JPG\Convert BMP to JPG\obj\Debug\Convert BMP to JPG.csproj.GenerateResource.Cache
+C:\Users\dfruk\Desktop\aprojects\c#\Convert BMP to JPG\Convert BMP to JPG\obj\Debug\Convert BMP to JPG.exe
+C:\Users\dfruk\Desktop\aprojects\c#\Convert BMP to JPG\Convert BMP to JPG\obj\Debug\Convert BMP to JPG.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Convert BMP to JPG\Convert BMP to JPG\bin\Debug\Convert BMP to JPG.exe.config
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Convert BMP to JPG\Convert BMP to JPG\bin\Debug\Convert BMP to JPG.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Convert BMP to JPG\Convert BMP to JPG\bin\Debug\Convert BMP to JPG.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Convert BMP to JPG\Convert BMP to JPG\obj\Debug\Convert BMP to JPG.csprojAssemblyReference.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Convert BMP to JPG\Convert BMP to JPG\obj\Debug\Convert_BMP_to_JPG.FormConvertBmpToJpg.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Convert BMP to JPG\Convert BMP to JPG\obj\Debug\Convert_BMP_to_JPG.Properties.Resources.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Convert BMP to JPG\Convert BMP to JPG\obj\Debug\Convert BMP to JPG.csproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Convert BMP to JPG\Convert BMP to JPG\obj\Debug\Convert BMP to JPG.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Convert BMP to JPG\Convert BMP to JPG\obj\Debug\Convert BMP to JPG.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Convert BMP to JPG\Convert BMP to JPG\obj\Debug\Convert BMP to JPG.pdb

@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\Safe mode detection\Safe mode detection\bin\Debug\Safe mode detection.exe
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\Safe mode detection\Safe mode detection\bin\Debug\Safe mode detection.pdb
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\Safe mode detection\Safe mode detection\obj\Debug\Safe_mode_detection.Form1.resources
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\Safe mode detection\Safe mode detection\obj\Debug\Safe_mode_detection.Properties.Resources.resources
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\Safe mode detection\Safe mode detection\obj\Debug\Safe mode detection.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\Safe mode detection\Safe mode detection\obj\Debug\Safe mode detection.exe
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\Safe mode detection\Safe mode detection\obj\Debug\Safe mode detection.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Safe mode detection\Safe mode detection\bin\Debug\Safe mode detection.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Safe mode detection\Safe mode detection\bin\Debug\Safe mode detection.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Safe mode detection\Safe mode detection\obj\Debug\Safe_mode_detection.FormSafeMode.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Safe mode detection\Safe mode detection\obj\Debug\Safe_mode_detection.Properties.Resources.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Safe mode detection\Safe mode detection\obj\Debug\Safe mode detection.csproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Safe mode detection\Safe mode detection\obj\Debug\Safe mode detection.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Safe mode detection\Safe mode detection\obj\Debug\Safe mode detection.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Safe mode detection\Safe mode detection\obj\Debug\Safe mode detection.pdb

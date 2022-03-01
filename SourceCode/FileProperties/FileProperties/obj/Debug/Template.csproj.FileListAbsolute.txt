@@ -1,0 +1,9 @@
+C:\Users\dfruk\Desktop\aprojects\c#\Template\Template\bin\Debug\Template.exe.config
+C:\Users\dfruk\Desktop\aprojects\c#\Template\Template\bin\Debug\Template.exe
+C:\Users\dfruk\Desktop\aprojects\c#\Template\Template\bin\Debug\Template.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\Template\Template\obj\Debug\Template.csprojResolveAssemblyReference.cache
+C:\Users\dfruk\Desktop\aprojects\c#\Template\Template\obj\Debug\Template.Form1.resources
+C:\Users\dfruk\Desktop\aprojects\c#\Template\Template\obj\Debug\Template.Properties.Resources.resources
+C:\Users\dfruk\Desktop\aprojects\c#\Template\Template\obj\Debug\Template.csproj.GenerateResource.Cache
+C:\Users\dfruk\Desktop\aprojects\c#\Template\Template\obj\Debug\Template.exe
+C:\Users\dfruk\Desktop\aprojects\c#\Template\Template\obj\Debug\Template.pdb

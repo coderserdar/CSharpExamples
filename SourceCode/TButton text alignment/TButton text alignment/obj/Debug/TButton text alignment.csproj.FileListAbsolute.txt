@@ -1,0 +1,17 @@
+C:\Users\dfruk\Desktop\aprojects\c#\TButton text alignment\TButton text alignment\bin\Debug\TButton text alignment.exe.config
+C:\Users\dfruk\Desktop\aprojects\c#\TButton text alignment\TButton text alignment\obj\Debug\TButton_text_alignment.Form1.resources
+C:\Users\dfruk\Desktop\aprojects\c#\TButton text alignment\TButton text alignment\obj\Debug\TButton_text_alignment.Properties.Resources.resources
+C:\Users\dfruk\Desktop\aprojects\c#\TButton text alignment\TButton text alignment\obj\Debug\TButton text alignment.csproj.GenerateResource.Cache
+C:\Users\dfruk\Desktop\aprojects\c#\TButton text alignment\TButton text alignment\bin\Debug\TButton text alignment.exe
+C:\Users\dfruk\Desktop\aprojects\c#\TButton text alignment\TButton text alignment\bin\Debug\TButton text alignment.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\TButton text alignment\TButton text alignment\obj\Debug\TButton text alignment.exe
+C:\Users\dfruk\Desktop\aprojects\c#\TButton text alignment\TButton text alignment\obj\Debug\TButton text alignment.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\TButton text alignment\TButton text alignment\bin\Debug\TButton text alignment.exe.config
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\TButton text alignment\TButton text alignment\bin\Debug\TButton text alignment.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\TButton text alignment\TButton text alignment\bin\Debug\TButton text alignment.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\TButton text alignment\TButton text alignment\obj\Debug\TButton_text_alignment.FormButtonTextAlignment.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\TButton text alignment\TButton text alignment\obj\Debug\TButton_text_alignment.Properties.Resources.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\TButton text alignment\TButton text alignment\obj\Debug\TButton text alignment.csproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\TButton text alignment\TButton text alignment\obj\Debug\TButton text alignment.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\TButton text alignment\TButton text alignment\obj\Debug\TButton text alignment.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\TButton text alignment\TButton text alignment\obj\Debug\TButton text alignment.pdb

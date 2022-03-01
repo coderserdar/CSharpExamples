@@ -1,0 +1,19 @@
+C:\Users\dfruk\Desktop\aprojects\c#\Color to Gray\Color to Gray\bin\Debug\Color to Gray.exe.config
+C:\Users\dfruk\Desktop\aprojects\c#\Color to Gray\Color to Gray\bin\Debug\Color to Gray.exe
+C:\Users\dfruk\Desktop\aprojects\c#\Color to Gray\Color to Gray\bin\Debug\Color to Gray.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\Color to Gray\Color to Gray\obj\Debug\Color to Gray.csprojResolveAssemblyReference.cache
+C:\Users\dfruk\Desktop\aprojects\c#\Color to Gray\Color to Gray\obj\Debug\Color_to_Gray.Form1.resources
+C:\Users\dfruk\Desktop\aprojects\c#\Color to Gray\Color to Gray\obj\Debug\Color_to_Gray.Properties.Resources.resources
+C:\Users\dfruk\Desktop\aprojects\c#\Color to Gray\Color to Gray\obj\Debug\Color to Gray.csproj.GenerateResource.Cache
+C:\Users\dfruk\Desktop\aprojects\c#\Color to Gray\Color to Gray\obj\Debug\Color to Gray.exe
+C:\Users\dfruk\Desktop\aprojects\c#\Color to Gray\Color to Gray\obj\Debug\Color to Gray.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Color to Gray\Color to Gray\bin\Debug\Color to Gray.exe.config
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Color to Gray\Color to Gray\bin\Debug\Color to Gray.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Color to Gray\Color to Gray\bin\Debug\Color to Gray.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Color to Gray\Color to Gray\obj\Debug\Color to Gray.csprojAssemblyReference.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Color to Gray\Color to Gray\obj\Debug\Color_to_Gray.FormColorToGray.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Color to Gray\Color to Gray\obj\Debug\Color_to_Gray.Properties.Resources.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Color to Gray\Color to Gray\obj\Debug\Color to Gray.csproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Color to Gray\Color to Gray\obj\Debug\Color to Gray.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Color to Gray\Color to Gray\obj\Debug\Color to Gray.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Color to Gray\Color to Gray\obj\Debug\Color to Gray.pdb

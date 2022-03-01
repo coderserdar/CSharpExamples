@@ -1,0 +1,25 @@
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\Dynamic button\Dynamic button\obj\Debug\Dynamic button.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\Dynamic button\Dynamic button\obj\Debug\Dynamic_button.Form1.resources
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\Dynamic button\Dynamic button\obj\Debug\Dynamic_button.Properties.Resources.resources
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\Dynamic button\Dynamic button\obj\Debug\Dynamic button.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\Dynamic button\Dynamic button\bin\Debug\Dynamic button.exe
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\Dynamic button\Dynamic button\bin\Debug\Dynamic button.pdb
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\Dynamic button\Dynamic button\obj\Debug\Dynamic button.exe
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\Dynamic button\Dynamic button\obj\Debug\Dynamic button.pdb
+C:\Users\dfruk\Desktop\aprojects\alls\Dynamic button\Dynamic button\obj\Debug\Dynamic button.exe
+C:\Users\dfruk\Desktop\aprojects\alls\Dynamic button\Dynamic button\obj\Debug\Dynamic button.pdb
+C:\Users\dfruk\Desktop\aprojects\alls\Dynamic button\Dynamic button\bin\Debug\Dynamic button.exe
+C:\Users\dfruk\Desktop\aprojects\alls\Dynamic button\Dynamic button\bin\Debug\Dynamic button.pdb
+C:\Users\dfruk\Desktop\aprojects\alls\Dynamic button\Dynamic button\obj\Debug\Dynamic button.csprojResolveAssemblyReference.cache
+C:\Users\dfruk\Desktop\aprojects\alls\Dynamic button\Dynamic button\obj\Debug\Dynamic_button.Form1.resources
+C:\Users\dfruk\Desktop\aprojects\alls\Dynamic button\Dynamic button\obj\Debug\Dynamic_button.Properties.Resources.resources
+C:\Users\dfruk\Desktop\aprojects\alls\Dynamic button\Dynamic button\obj\Debug\Dynamic button.csproj.GenerateResource.Cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Dynamic button\Dynamic button\bin\Debug\Dynamic button.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Dynamic button\Dynamic button\bin\Debug\Dynamic button.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Dynamic button\Dynamic button\obj\Debug\Dynamic button.csprojAssemblyReference.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Dynamic button\Dynamic button\obj\Debug\Dynamic_button.FormDynamicButton.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Dynamic button\Dynamic button\obj\Debug\Dynamic_button.Properties.Resources.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Dynamic button\Dynamic button\obj\Debug\Dynamic button.csproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Dynamic button\Dynamic button\obj\Debug\Dynamic button.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Dynamic button\Dynamic button\obj\Debug\Dynamic button.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Dynamic button\Dynamic button\obj\Debug\Dynamic button.pdb

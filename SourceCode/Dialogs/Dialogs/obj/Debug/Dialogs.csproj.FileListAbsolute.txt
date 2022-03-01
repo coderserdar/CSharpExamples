@@ -1,0 +1,17 @@
+C:\Users\dfruk\Desktop\aprojects\c#\Dialogs\Dialogs\bin\Debug\Dialogs.exe.config
+C:\Users\dfruk\Desktop\aprojects\c#\Dialogs\Dialogs\bin\Debug\Dialogs.exe
+C:\Users\dfruk\Desktop\aprojects\c#\Dialogs\Dialogs\bin\Debug\Dialogs.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\Dialogs\Dialogs\obj\Debug\Dialogs.Properties.Resources.resources
+C:\Users\dfruk\Desktop\aprojects\c#\Dialogs\Dialogs\obj\Debug\Dialogs.csproj.GenerateResource.Cache
+C:\Users\dfruk\Desktop\aprojects\c#\Dialogs\Dialogs\obj\Debug\Dialogs.exe
+C:\Users\dfruk\Desktop\aprojects\c#\Dialogs\Dialogs\obj\Debug\Dialogs.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\Dialogs\Dialogs\obj\Debug\Dialogs.Form1.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Dialogs\Dialogs\bin\Debug\Dialogs.exe.config
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Dialogs\Dialogs\bin\Debug\Dialogs.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Dialogs\Dialogs\bin\Debug\Dialogs.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Dialogs\Dialogs\obj\Debug\Dialogs.FormDialog.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Dialogs\Dialogs\obj\Debug\Dialogs.Properties.Resources.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Dialogs\Dialogs\obj\Debug\Dialogs.csproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Dialogs\Dialogs\obj\Debug\Dialogs.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Dialogs\Dialogs\obj\Debug\Dialogs.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Dialogs\Dialogs\obj\Debug\Dialogs.pdb

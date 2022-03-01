@@ -1,0 +1,17 @@
+C:\Users\dfruk\Desktop\aprojects\c#\Get processor type\Get processor type\bin\Debug\Get processor type.exe.config
+C:\Users\dfruk\Desktop\aprojects\c#\Get processor type\Get processor type\obj\Debug\Get_processor_type.Form1.resources
+C:\Users\dfruk\Desktop\aprojects\c#\Get processor type\Get processor type\obj\Debug\Get_processor_type.Properties.Resources.resources
+C:\Users\dfruk\Desktop\aprojects\c#\Get processor type\Get processor type\obj\Debug\Get processor type.csproj.GenerateResource.Cache
+C:\Users\dfruk\Desktop\aprojects\c#\Get processor type\Get processor type\bin\Debug\Get processor type.exe
+C:\Users\dfruk\Desktop\aprojects\c#\Get processor type\Get processor type\bin\Debug\Get processor type.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\Get processor type\Get processor type\obj\Debug\Get processor type.exe
+C:\Users\dfruk\Desktop\aprojects\c#\Get processor type\Get processor type\obj\Debug\Get processor type.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Get processor type\Get processor type\bin\Debug\Get processor type.exe.config
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Get processor type\Get processor type\bin\Debug\Get processor type.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Get processor type\Get processor type\bin\Debug\Get processor type.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Get processor type\Get processor type\obj\Debug\Get_processor_type.FormGetProcessorType.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Get processor type\Get processor type\obj\Debug\Get_processor_type.Properties.Resources.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Get processor type\Get processor type\obj\Debug\Get processor type.csproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Get processor type\Get processor type\obj\Debug\Get processor type.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Get processor type\Get processor type\obj\Debug\Get processor type.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Get processor type\Get processor type\obj\Debug\Get processor type.pdb

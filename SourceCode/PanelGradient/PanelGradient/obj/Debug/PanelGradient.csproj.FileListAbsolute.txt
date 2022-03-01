@@ -1,0 +1,17 @@
+C:\Users\dfruk\Desktop\aprojects\c#\a\PanelGradient\PanelGradient\bin\Debug\PanelGradient.exe.config
+C:\Users\dfruk\Desktop\aprojects\c#\a\PanelGradient\PanelGradient\bin\Debug\PanelGradient.exe
+C:\Users\dfruk\Desktop\aprojects\c#\a\PanelGradient\PanelGradient\bin\Debug\PanelGradient.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\a\PanelGradient\PanelGradient\obj\Debug\Template.Form1.resources
+C:\Users\dfruk\Desktop\aprojects\c#\a\PanelGradient\PanelGradient\obj\Debug\PanelGradient.Properties.Resources.resources
+C:\Users\dfruk\Desktop\aprojects\c#\a\PanelGradient\PanelGradient\obj\Debug\PanelGradient.csproj.GenerateResource.Cache
+C:\Users\dfruk\Desktop\aprojects\c#\a\PanelGradient\PanelGradient\obj\Debug\PanelGradient.exe
+C:\Users\dfruk\Desktop\aprojects\c#\a\PanelGradient\PanelGradient\obj\Debug\PanelGradient.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\PanelGradient\PanelGradient\bin\Debug\PanelGradient.exe.config
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\PanelGradient\PanelGradient\bin\Debug\PanelGradient.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\PanelGradient\PanelGradient\bin\Debug\PanelGradient.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\PanelGradient\PanelGradient\obj\Debug\Template.FormPanelGradient.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\PanelGradient\PanelGradient\obj\Debug\PanelGradient.Properties.Resources.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\PanelGradient\PanelGradient\obj\Debug\PanelGradient.csproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\PanelGradient\PanelGradient\obj\Debug\PanelGradient.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\PanelGradient\PanelGradient\obj\Debug\PanelGradient.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\PanelGradient\PanelGradient\obj\Debug\PanelGradient.pdb

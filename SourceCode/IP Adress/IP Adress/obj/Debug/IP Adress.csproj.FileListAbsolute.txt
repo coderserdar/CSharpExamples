@@ -1,0 +1,22 @@
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\IP Adress\IP Adress\bin\Debug\IP Adress.exe
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\IP Adress\IP Adress\bin\Debug\IP Adress.pdb
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\IP Adress\IP Adress\obj\Debug\IP Adress.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\IP Adress\IP Adress\obj\Debug\IP_Adress.Form1.resources
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\IP Adress\IP Adress\obj\Debug\IP_Adress.Properties.Resources.resources
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\IP Adress\IP Adress\obj\Debug\IP Adress.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\IP Adress\IP Adress\obj\Debug\IP Adress.exe
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\IP Adress\IP Adress\obj\Debug\IP Adress.pdb
+C:\Users\dfruk\Desktop\aprojects\alls\IP Adress\IP Adress\obj\Debug\IP Adress.exe
+C:\Users\dfruk\Desktop\aprojects\alls\IP Adress\IP Adress\obj\Debug\IP Adress.csprojResolveAssemblyReference.cache
+C:\Users\dfruk\Desktop\aprojects\alls\IP Adress\IP Adress\obj\Debug\IP_Adress.Form1.resources
+C:\Users\dfruk\Desktop\aprojects\alls\IP Adress\IP Adress\obj\Debug\IP_Adress.Properties.Resources.resources
+C:\Users\dfruk\Desktop\aprojects\alls\IP Adress\IP Adress\obj\Debug\IP Adress.csproj.GenerateResource.Cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\IP Adress\IP Adress\bin\Debug\IP Adress.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\IP Adress\IP Adress\bin\Debug\IP Adress.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\IP Adress\IP Adress\obj\Debug\IP Adress.csprojAssemblyReference.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\IP Adress\IP Adress\obj\Debug\IP_Adress.FormIpAddress.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\IP Adress\IP Adress\obj\Debug\IP_Adress.Properties.Resources.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\IP Adress\IP Adress\obj\Debug\IP Adress.csproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\IP Adress\IP Adress\obj\Debug\IP Adress.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\IP Adress\IP Adress\obj\Debug\IP Adress.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\IP Adress\IP Adress\obj\Debug\IP Adress.pdb

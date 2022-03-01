@@ -1,0 +1,19 @@
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\Firewall\Firewall\obj\Debug\Firewall.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\Firewall\Firewall\obj\Debug\Template.Form1.resources
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\Firewall\Firewall\obj\Debug\Firewall.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\Firewall\Firewall\bin\Debug\Firewall.exe.config
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\Firewall\Firewall\bin\Debug\Firewall.exe
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\Firewall\Firewall\bin\Debug\Firewall.pdb
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\Firewall\Firewall\obj\Debug\Firewall.Properties.Resources.resources
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\Firewall\Firewall\obj\Debug\Firewall.exe
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\a\Firewall\Firewall\obj\Debug\Firewall.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Firewall\Firewall\bin\Debug\Firewall.exe.config
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Firewall\Firewall\bin\Debug\Firewall.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Firewall\Firewall\bin\Debug\Firewall.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Firewall\Firewall\obj\Debug\Firewall.csprojAssemblyReference.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Firewall\Firewall\obj\Debug\Template.FormFirewall.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Firewall\Firewall\obj\Debug\Firewall.Properties.Resources.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Firewall\Firewall\obj\Debug\Firewall.csproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Firewall\Firewall\obj\Debug\Firewall.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Firewall\Firewall\obj\Debug\Firewall.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Firewall\Firewall\obj\Debug\Firewall.pdb

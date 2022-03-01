@@ -1,0 +1,18 @@
+C:\Users\dfruk\Desktop\aprojects\c#\TrayIcon example\TrayIcon example\bin\Debug\TrayIcon example.exe.config
+C:\Users\dfruk\Desktop\aprojects\c#\TrayIcon example\TrayIcon example\bin\Debug\TrayIcon example.exe
+C:\Users\dfruk\Desktop\aprojects\c#\TrayIcon example\TrayIcon example\bin\Debug\TrayIcon example.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\TrayIcon example\TrayIcon example\obj\Debug\TrayIcon example.csprojResolveAssemblyReference.cache
+C:\Users\dfruk\Desktop\aprojects\c#\TrayIcon example\TrayIcon example\obj\Debug\TrayIcon_example.Form1.resources
+C:\Users\dfruk\Desktop\aprojects\c#\TrayIcon example\TrayIcon example\obj\Debug\TrayIcon_example.Properties.Resources.resources
+C:\Users\dfruk\Desktop\aprojects\c#\TrayIcon example\TrayIcon example\obj\Debug\TrayIcon example.csproj.GenerateResource.Cache
+C:\Users\dfruk\Desktop\aprojects\c#\TrayIcon example\TrayIcon example\obj\Debug\TrayIcon example.exe
+C:\Users\dfruk\Desktop\aprojects\c#\TrayIcon example\TrayIcon example\obj\Debug\TrayIcon example.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\TrayIcon example\TrayIcon example\bin\Debug\TrayIcon example.exe.config
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\TrayIcon example\TrayIcon example\bin\Debug\TrayIcon example.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\TrayIcon example\TrayIcon example\bin\Debug\TrayIcon example.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\TrayIcon example\TrayIcon example\obj\Debug\TrayIcon_example.FormTrayIcon.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\TrayIcon example\TrayIcon example\obj\Debug\TrayIcon_example.Properties.Resources.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\TrayIcon example\TrayIcon example\obj\Debug\TrayIcon example.csproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\TrayIcon example\TrayIcon example\obj\Debug\TrayIcon example.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\TrayIcon example\TrayIcon example\obj\Debug\TrayIcon example.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\TrayIcon example\TrayIcon example\obj\Debug\TrayIcon example.pdb

@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\Monitor StandBy example\Monitor StandBy example\bin\Debug\Monitor StandBy example.exe
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\Monitor StandBy example\Monitor StandBy example\bin\Debug\Monitor StandBy example.pdb
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\Monitor StandBy example\Monitor StandBy example\obj\Debug\Monitor StandBy example.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\Monitor StandBy example\Monitor StandBy example\obj\Debug\Monitor_StandBy_example.Form1.resources
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\Monitor StandBy example\Monitor StandBy example\obj\Debug\Monitor_StandBy_example.Properties.Resources.resources
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\Monitor StandBy example\Monitor StandBy example\obj\Debug\Monitor StandBy example.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\Monitor StandBy example\Monitor StandBy example\obj\Debug\Monitor StandBy example.exe
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\Monitor StandBy example\Monitor StandBy example\obj\Debug\Monitor StandBy example.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Monitor StandBy example\Monitor StandBy example\bin\Debug\Monitor StandBy example.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Monitor StandBy example\Monitor StandBy example\bin\Debug\Monitor StandBy example.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Monitor StandBy example\Monitor StandBy example\obj\Debug\Monitor StandBy example.csprojAssemblyReference.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Monitor StandBy example\Monitor StandBy example\obj\Debug\Monitor_StandBy_example.FormMonitorStandBy.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Monitor StandBy example\Monitor StandBy example\obj\Debug\Monitor_StandBy_example.Properties.Resources.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Monitor StandBy example\Monitor StandBy example\obj\Debug\Monitor StandBy example.csproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Monitor StandBy example\Monitor StandBy example\obj\Debug\Monitor StandBy example.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Monitor StandBy example\Monitor StandBy example\obj\Debug\Monitor StandBy example.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Monitor StandBy example\Monitor StandBy example\obj\Debug\Monitor StandBy example.pdb

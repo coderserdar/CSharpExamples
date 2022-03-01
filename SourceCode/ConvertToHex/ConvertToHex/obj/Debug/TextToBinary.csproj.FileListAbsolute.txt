@@ -1,0 +1,9 @@
+C:\Users\dfruk\Desktop\aprojects\c#\a\TextToBinary\TextToBinary\bin\Debug\Template.exe.config
+C:\Users\dfruk\Desktop\aprojects\c#\a\TextToBinary\TextToBinary\obj\Debug\Template.exe
+C:\Users\dfruk\Desktop\aprojects\c#\a\TextToBinary\TextToBinary\obj\Debug\Template.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\a\TextToBinary\TextToBinary\bin\Debug\Template.exe
+C:\Users\dfruk\Desktop\aprojects\c#\a\TextToBinary\TextToBinary\bin\Debug\Template.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\a\TextToBinary\TextToBinary\obj\Debug\TextToBinary.csprojResolveAssemblyReference.cache
+C:\Users\dfruk\Desktop\aprojects\c#\a\TextToBinary\TextToBinary\obj\Debug\Template.Form1.resources
+C:\Users\dfruk\Desktop\aprojects\c#\a\TextToBinary\TextToBinary\obj\Debug\Template.Properties.Resources.resources
+C:\Users\dfruk\Desktop\aprojects\c#\a\TextToBinary\TextToBinary\obj\Debug\TextToBinary.csproj.GenerateResource.Cache

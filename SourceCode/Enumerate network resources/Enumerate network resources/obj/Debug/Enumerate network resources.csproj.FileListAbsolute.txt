@@ -1,0 +1,19 @@
+C:\Users\dfruk\Desktop\aprojects\c#\Enumerate network resources\Enumerate network resources\bin\Debug\Enumerate network resources.exe.config
+C:\Users\dfruk\Desktop\aprojects\c#\Enumerate network resources\Enumerate network resources\bin\Debug\Enumerate network resources.exe
+C:\Users\dfruk\Desktop\aprojects\c#\Enumerate network resources\Enumerate network resources\bin\Debug\Enumerate network resources.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\Enumerate network resources\Enumerate network resources\obj\Debug\Enumerate network resources.csprojResolveAssemblyReference.cache
+C:\Users\dfruk\Desktop\aprojects\c#\Enumerate network resources\Enumerate network resources\obj\Debug\Enumerate_network_resources.Form1.resources
+C:\Users\dfruk\Desktop\aprojects\c#\Enumerate network resources\Enumerate network resources\obj\Debug\Enumerate_network_resources.Properties.Resources.resources
+C:\Users\dfruk\Desktop\aprojects\c#\Enumerate network resources\Enumerate network resources\obj\Debug\Enumerate network resources.csproj.GenerateResource.Cache
+C:\Users\dfruk\Desktop\aprojects\c#\Enumerate network resources\Enumerate network resources\obj\Debug\Enumerate network resources.exe
+C:\Users\dfruk\Desktop\aprojects\c#\Enumerate network resources\Enumerate network resources\obj\Debug\Enumerate network resources.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Enumerate network resources\Enumerate network resources\bin\Debug\Enumerate network resources.exe.config
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Enumerate network resources\Enumerate network resources\bin\Debug\Enumerate network resources.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Enumerate network resources\Enumerate network resources\bin\Debug\Enumerate network resources.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Enumerate network resources\Enumerate network resources\obj\Debug\Enumerate network resources.csprojAssemblyReference.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Enumerate network resources\Enumerate network resources\obj\Debug\Enumerate_network_resources.FormEnumerateNetwork.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Enumerate network resources\Enumerate network resources\obj\Debug\Enumerate_network_resources.Properties.Resources.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Enumerate network resources\Enumerate network resources\obj\Debug\Enumerate network resources.csproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Enumerate network resources\Enumerate network resources\obj\Debug\Enumerate network resources.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Enumerate network resources\Enumerate network resources\obj\Debug\Enumerate network resources.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Enumerate network resources\Enumerate network resources\obj\Debug\Enumerate network resources.pdb

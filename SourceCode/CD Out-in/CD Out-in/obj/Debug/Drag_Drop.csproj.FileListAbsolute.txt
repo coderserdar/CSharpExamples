@@ -1,0 +1,13 @@
+C:\Users\dfruk\Desktop\aprojects\c#\CD Out-in\CD Out-in\bin\Debug\CD Out-in.exe.config
+C:\Users\dfruk\Desktop\aprojects\c#\CD Out-in\CD Out-in\obj\Debug\CD Out-in.exe
+C:\Users\dfruk\Desktop\aprojects\c#\CD Out-in\CD Out-in\obj\Debug\CD Out-in.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\CD Out-in\CD Out-in\bin\Debug\CD Out-in.exe.config
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\CD Out-in\CD Out-in\bin\Debug\CD Out-in.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\CD Out-in\CD Out-in\bin\Debug\CD Out-in.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\CD Out-in\CD Out-in\obj\Debug\Drag_Drop.csprojAssemblyReference.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\CD Out-in\CD Out-in\obj\Debug\CD_Out_in.frmExamples.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\CD Out-in\CD Out-in\obj\Debug\CD_Out_in.Properties.Resources.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\CD Out-in\CD Out-in\obj\Debug\Drag_Drop.csproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\CD Out-in\CD Out-in\obj\Debug\Drag_Drop.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\CD Out-in\CD Out-in\obj\Debug\CD Out-in.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\CD Out-in\CD Out-in\obj\Debug\CD Out-in.pdb

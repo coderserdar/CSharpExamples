@@ -1,0 +1,18 @@
+C:\Users\dfruk\Desktop\aprojects\c#\Screen Capture\Screen Capture\bin\Debug\Screen Capture.exe.config
+C:\Users\dfruk\Desktop\aprojects\c#\Screen Capture\Screen Capture\bin\Debug\Screen Capture.exe
+C:\Users\dfruk\Desktop\aprojects\c#\Screen Capture\Screen Capture\bin\Debug\Screen Capture.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\Screen Capture\Screen Capture\obj\Debug\Screen Capture.csprojResolveAssemblyReference.cache
+C:\Users\dfruk\Desktop\aprojects\c#\Screen Capture\Screen Capture\obj\Debug\Screen_Capture.Form1.resources
+C:\Users\dfruk\Desktop\aprojects\c#\Screen Capture\Screen Capture\obj\Debug\Screen_Capture.Properties.Resources.resources
+C:\Users\dfruk\Desktop\aprojects\c#\Screen Capture\Screen Capture\obj\Debug\Screen Capture.csproj.GenerateResource.Cache
+C:\Users\dfruk\Desktop\aprojects\c#\Screen Capture\Screen Capture\obj\Debug\Screen Capture.exe
+C:\Users\dfruk\Desktop\aprojects\c#\Screen Capture\Screen Capture\obj\Debug\Screen Capture.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Screen Capture\Screen Capture\bin\Debug\Screen Capture.exe.config
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Screen Capture\Screen Capture\bin\Debug\Screen Capture.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Screen Capture\Screen Capture\bin\Debug\Screen Capture.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Screen Capture\Screen Capture\obj\Debug\Screen_Capture.FormScreenCapture.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Screen Capture\Screen Capture\obj\Debug\Screen_Capture.Properties.Resources.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Screen Capture\Screen Capture\obj\Debug\Screen Capture.csproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Screen Capture\Screen Capture\obj\Debug\Screen Capture.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Screen Capture\Screen Capture\obj\Debug\Screen Capture.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Screen Capture\Screen Capture\obj\Debug\Screen Capture.pdb

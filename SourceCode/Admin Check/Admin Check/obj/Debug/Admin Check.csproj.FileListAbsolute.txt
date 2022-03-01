@@ -1,0 +1,27 @@
+C:\Users\dfruk\Desktop\aprojects\c#\1\Admin Check\Admin Check\obj\Debug\Admin Check.csprojResolveAssemblyReference.cache
+C:\Users\dfruk\Desktop\aprojects\c#\1\Admin Check\Admin Check\obj\Debug\Admin Check.csproj.GenerateResource.Cache
+C:\Users\dfruk\Desktop\aprojects\c#\1\Admin Check\Admin Check\bin\Debug\Admin Check.exe.config
+C:\Users\dfruk\Desktop\aprojects\c#\1\Admin Check\Admin Check\bin\Debug\Admin Check.exe
+C:\Users\dfruk\Desktop\aprojects\c#\1\Admin Check\Admin Check\bin\Debug\Admin Check.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\1\Admin Check\Admin Check\obj\Debug\Admin_Check.Properties.Resources.resources
+C:\Users\dfruk\Desktop\aprojects\c#\1\Admin Check\Admin Check\obj\Debug\Admin Check.exe
+C:\Users\dfruk\Desktop\aprojects\c#\1\Admin Check\Admin Check\obj\Debug\Admin Check.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\1\Admin Check\Admin Check\obj\Debug\Admin_Check.Form1.resources
+C:\Users\dfruk\Desktop\aprojects\c#\Admin Check\Admin Check\bin\Debug\Admin Check.exe.config
+C:\Users\dfruk\Desktop\aprojects\c#\Admin Check\Admin Check\obj\Debug\Admin Check.exe
+C:\Users\dfruk\Desktop\aprojects\c#\Admin Check\Admin Check\obj\Debug\Admin Check.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\Admin Check\Admin Check\bin\Debug\Admin Check.exe
+C:\Users\dfruk\Desktop\aprojects\c#\Admin Check\Admin Check\bin\Debug\Admin Check.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\Admin Check\Admin Check\obj\Debug\Admin Check.csprojResolveAssemblyReference.cache
+C:\Users\dfruk\Desktop\aprojects\c#\Admin Check\Admin Check\obj\Debug\Admin_Check.Form1.resources
+C:\Users\dfruk\Desktop\aprojects\c#\Admin Check\Admin Check\obj\Debug\Admin_Check.Properties.Resources.resources
+C:\Users\dfruk\Desktop\aprojects\c#\Admin Check\Admin Check\obj\Debug\Admin Check.csproj.GenerateResource.Cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Admin Check\Admin Check\bin\Debug\Admin Check.exe.config
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Admin Check\Admin Check\bin\Debug\Admin Check.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Admin Check\Admin Check\bin\Debug\Admin Check.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Admin Check\Admin Check\obj\Debug\Admin_Check.FormAdminCheck.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Admin Check\Admin Check\obj\Debug\Admin_Check.Properties.Resources.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Admin Check\Admin Check\obj\Debug\Admin Check.csproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Admin Check\Admin Check\obj\Debug\Admin Check.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Admin Check\Admin Check\obj\Debug\Admin Check.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Admin Check\Admin Check\obj\Debug\Admin Check.pdb

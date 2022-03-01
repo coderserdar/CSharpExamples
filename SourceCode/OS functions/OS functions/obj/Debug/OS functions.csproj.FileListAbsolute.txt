@@ -1,0 +1,18 @@
+C:\Users\dfruk\Desktop\aprojects\c#\OS functions\OS functions\bin\Debug\OS functions.exe.config
+C:\Users\dfruk\Desktop\aprojects\c#\OS functions\OS functions\bin\Debug\OS functions.exe
+C:\Users\dfruk\Desktop\aprojects\c#\OS functions\OS functions\bin\Debug\OS functions.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\OS functions\OS functions\obj\Debug\OS functions.csprojResolveAssemblyReference.cache
+C:\Users\dfruk\Desktop\aprojects\c#\OS functions\OS functions\obj\Debug\OS_functions.Form1.resources
+C:\Users\dfruk\Desktop\aprojects\c#\OS functions\OS functions\obj\Debug\OS_functions.Properties.Resources.resources
+C:\Users\dfruk\Desktop\aprojects\c#\OS functions\OS functions\obj\Debug\OS functions.csproj.GenerateResource.Cache
+C:\Users\dfruk\Desktop\aprojects\c#\OS functions\OS functions\obj\Debug\OS functions.exe
+C:\Users\dfruk\Desktop\aprojects\c#\OS functions\OS functions\obj\Debug\OS functions.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\OS functions\OS functions\bin\Debug\OS functions.exe.config
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\OS functions\OS functions\bin\Debug\OS functions.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\OS functions\OS functions\bin\Debug\OS functions.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\OS functions\OS functions\obj\Debug\OS_functions.FormOsFunctions.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\OS functions\OS functions\obj\Debug\OS_functions.Properties.Resources.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\OS functions\OS functions\obj\Debug\OS functions.csproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\OS functions\OS functions\obj\Debug\OS functions.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\OS functions\OS functions\obj\Debug\OS functions.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\OS functions\OS functions\obj\Debug\OS functions.pdb

@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2012\Projects\CD Out-in\CD Out-in\obj\Debug\CD Out-in.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\CD Out-in\CD Out-in\obj\Debug\CD_Out_in.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\CD Out-in\CD Out-in\obj\Debug\CD Out-in.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\CD Out-in\CD Out-in\bin\Debug\CD Out-in.exe
+c:\users\admin\documents\visual studio 2012\Projects\CD Out-in\CD Out-in\bin\Debug\CD Out-in.pdb
+c:\users\admin\documents\visual studio 2012\Projects\CD Out-in\CD Out-in\obj\Debug\CD Out-in.exe
+c:\users\admin\documents\visual studio 2012\Projects\CD Out-in\CD Out-in\obj\Debug\CD Out-in.pdb
+C:\Users\admin\documents\visual studio 2012\Projects\CD Out-in\CD Out-in\obj\Debug\CD_Out_in.frmExamples.resources
+C:\Users\admin\documents\visual studio 2012\Projects\CD Out-in\CD Out-in\bin\Debug\CD Out-in.exe.config

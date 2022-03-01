@@ -1,0 +1,18 @@
+C:\Users\dfruk\Desktop\aprojects\c#\Always on top\Always on top\bin\Debug\Always on top.exe.config
+C:\Users\dfruk\Desktop\aprojects\c#\Always on top\Always on top\obj\Debug\Always on top.csprojResolveAssemblyReference.cache
+C:\Users\dfruk\Desktop\aprojects\c#\Always on top\Always on top\obj\Debug\Always_on_top.Form1.resources
+C:\Users\dfruk\Desktop\aprojects\c#\Always on top\Always on top\obj\Debug\Always_on_top.Properties.Resources.resources
+C:\Users\dfruk\Desktop\aprojects\c#\Always on top\Always on top\obj\Debug\Always on top.csproj.GenerateResource.Cache
+C:\Users\dfruk\Desktop\aprojects\c#\Always on top\Always on top\bin\Debug\Always on top.exe
+C:\Users\dfruk\Desktop\aprojects\c#\Always on top\Always on top\bin\Debug\Always on top.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\Always on top\Always on top\obj\Debug\Always on top.exe
+C:\Users\dfruk\Desktop\aprojects\c#\Always on top\Always on top\obj\Debug\Always on top.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Always on top\Always on top\bin\Debug\Always on top.exe.config
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Always on top\Always on top\bin\Debug\Always on top.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Always on top\Always on top\bin\Debug\Always on top.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Always on top\Always on top\obj\Debug\Always_on_top.FormAlwaysOnTop.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Always on top\Always on top\obj\Debug\Always_on_top.Properties.Resources.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Always on top\Always on top\obj\Debug\Always on top.csproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Always on top\Always on top\obj\Debug\Always on top.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Always on top\Always on top\obj\Debug\Always on top.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Always on top\Always on top\obj\Debug\Always on top.pdb

@@ -1,0 +1,18 @@
+C:\Users\dfruk\Desktop\aprojects\c#\Check .NET Frameworks\Check .NET Frameworks\bin\Debug\Check.NET_Frameworks.exe.config
+C:\Users\dfruk\Desktop\aprojects\c#\Check .NET Frameworks\Check .NET Frameworks\bin\Debug\Check.NET_Frameworks.exe
+C:\Users\dfruk\Desktop\aprojects\c#\Check .NET Frameworks\Check .NET Frameworks\bin\Debug\Check.NET_Frameworks.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\Check .NET Frameworks\Check .NET Frameworks\obj\Debug\Check .NET Frameworks.csprojResolveAssemblyReference.cache
+C:\Users\dfruk\Desktop\aprojects\c#\Check .NET Frameworks\Check .NET Frameworks\obj\Debug\Check.NET_Frameworks.Form1.resources
+C:\Users\dfruk\Desktop\aprojects\c#\Check .NET Frameworks\Check .NET Frameworks\obj\Debug\Check.NET_Frameworks.Properties.Resources.resources
+C:\Users\dfruk\Desktop\aprojects\c#\Check .NET Frameworks\Check .NET Frameworks\obj\Debug\Check .NET Frameworks.csproj.GenerateResource.Cache
+C:\Users\dfruk\Desktop\aprojects\c#\Check .NET Frameworks\Check .NET Frameworks\obj\Debug\Check.NET_Frameworks.exe
+C:\Users\dfruk\Desktop\aprojects\c#\Check .NET Frameworks\Check .NET Frameworks\obj\Debug\Check.NET_Frameworks.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Check .NET Frameworks\Check .NET Frameworks\bin\Debug\Check.NET_Frameworks.exe.config
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Check .NET Frameworks\Check .NET Frameworks\bin\Debug\Check.NET_Frameworks.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Check .NET Frameworks\Check .NET Frameworks\bin\Debug\Check.NET_Frameworks.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Check .NET Frameworks\Check .NET Frameworks\obj\Debug\Check.NET_Frameworks.FormCheckFramework.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Check .NET Frameworks\Check .NET Frameworks\obj\Debug\Check.NET_Frameworks.Properties.Resources.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Check .NET Frameworks\Check .NET Frameworks\obj\Debug\Check .NET Frameworks.csproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Check .NET Frameworks\Check .NET Frameworks\obj\Debug\Check .NET Frameworks.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Check .NET Frameworks\Check .NET Frameworks\obj\Debug\Check.NET_Frameworks.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Check .NET Frameworks\Check .NET Frameworks\obj\Debug\Check.NET_Frameworks.pdb

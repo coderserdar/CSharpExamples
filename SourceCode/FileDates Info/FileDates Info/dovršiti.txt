@@ -1,0 +1,3 @@
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\FileDates Info\FileDates Info
+
+http://www.dotnetperls.com/fileinfo

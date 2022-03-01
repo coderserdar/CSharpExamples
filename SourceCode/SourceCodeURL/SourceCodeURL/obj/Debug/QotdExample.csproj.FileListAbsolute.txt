@@ -1,0 +1,9 @@
+C:\Users\dfruk\Desktop\aprojects\c#\a\QotdExample\QotdExample\bin\Debug\Template.exe.config
+C:\Users\dfruk\Desktop\aprojects\c#\a\QotdExample\QotdExample\obj\Debug\Template.exe
+C:\Users\dfruk\Desktop\aprojects\c#\a\QotdExample\QotdExample\obj\Debug\Template.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\a\QotdExample\QotdExample\bin\Debug\Template.exe
+C:\Users\dfruk\Desktop\aprojects\c#\a\QotdExample\QotdExample\bin\Debug\Template.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\a\QotdExample\QotdExample\obj\Debug\QotdExample.csprojResolveAssemblyReference.cache
+C:\Users\dfruk\Desktop\aprojects\c#\a\QotdExample\QotdExample\obj\Debug\Template.Form1.resources
+C:\Users\dfruk\Desktop\aprojects\c#\a\QotdExample\QotdExample\obj\Debug\Template.Properties.Resources.resources
+C:\Users\dfruk\Desktop\aprojects\c#\a\QotdExample\QotdExample\obj\Debug\QotdExample.csproj.GenerateResource.Cache

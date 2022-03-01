@@ -1,0 +1,19 @@
+C:\Users\dfruk\Desktop\aprojects\c#\Total Physical Memory\Total Physical Memory\bin\Debug\Total Physical Memory.exe.config
+C:\Users\dfruk\Desktop\aprojects\c#\Total Physical Memory\Total Physical Memory\bin\Debug\Total Physical Memory.exe
+C:\Users\dfruk\Desktop\aprojects\c#\Total Physical Memory\Total Physical Memory\bin\Debug\Total Physical Memory.pdb
+C:\Users\dfruk\Desktop\aprojects\c#\Total Physical Memory\Total Physical Memory\obj\Debug\Total Physical Memory.csprojResolveAssemblyReference.cache
+C:\Users\dfruk\Desktop\aprojects\c#\Total Physical Memory\Total Physical Memory\obj\Debug\Total_Physical_Memory.Form1.resources
+C:\Users\dfruk\Desktop\aprojects\c#\Total Physical Memory\Total Physical Memory\obj\Debug\Total_Physical_Memory.Properties.Resources.resources
+C:\Users\dfruk\Desktop\aprojects\c#\Total Physical Memory\Total Physical Memory\obj\Debug\Total Physical Memory.csproj.GenerateResource.Cache
+C:\Users\dfruk\Desktop\aprojects\c#\Total Physical Memory\Total Physical Memory\obj\Debug\Total Physical Memory.exe
+C:\Users\dfruk\Desktop\aprojects\c#\Total Physical Memory\Total Physical Memory\obj\Debug\Total Physical Memory.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Total Physical Memory\Total Physical Memory\bin\Debug\Total Physical Memory.exe.config
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Total Physical Memory\Total Physical Memory\bin\Debug\Total Physical Memory.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Total Physical Memory\Total Physical Memory\bin\Debug\Total Physical Memory.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Total Physical Memory\Total Physical Memory\obj\Debug\Total Physical Memory.csprojAssemblyReference.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Total Physical Memory\Total Physical Memory\obj\Debug\Total_Physical_Memory.FormTotalPhysicalMemory.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Total Physical Memory\Total Physical Memory\obj\Debug\Total_Physical_Memory.Properties.Resources.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Total Physical Memory\Total Physical Memory\obj\Debug\Total Physical Memory.csproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Total Physical Memory\Total Physical Memory\obj\Debug\Total Physical Memory.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Total Physical Memory\Total Physical Memory\obj\Debug\Total Physical Memory.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Total Physical Memory\Total Physical Memory\obj\Debug\Total Physical Memory.pdb

@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\Ping example\Ping example\bin\Debug\Ping example.exe
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\Ping example\Ping example\bin\Debug\Ping example.pdb
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\Ping example\Ping example\obj\Debug\Ping example.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\Ping example\Ping example\obj\Debug\Ping_example.Form1.resources
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\Ping example\Ping example\obj\Debug\Ping_example.Properties.Resources.resources
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\Ping example\Ping example\obj\Debug\Ping example.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\Ping example\Ping example\obj\Debug\Ping example.exe
+C:\Users\admin\Desktop\xxx\x++ Builder Examples Collection (Full)\C#\Ping example\Ping example\obj\Debug\Ping example.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Ping example\Ping example\bin\Debug\Ping example.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Ping example\Ping example\bin\Debug\Ping example.pdb
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Ping example\Ping example\obj\Debug\Ping_example.FormPing.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Ping example\Ping example\obj\Debug\Ping_example.Properties.Resources.resources
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Ping example\Ping example\obj\Debug\Ping example.csproj.GenerateResource.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Ping example\Ping example\obj\Debug\Ping example.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Ping example\Ping example\obj\Debug\Ping example.exe
+C:\Users\serdar\Documents\GitHub\CSharpExamples\SourceCode\Ping example\Ping example\obj\Debug\Ping example.pdb
